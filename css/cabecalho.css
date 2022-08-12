@@ -1,0 +1,17 @@
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: var(--cor-do-header);
+    padding: 1rem .3rem 1rem .3rem;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+.texto_cabecalho{
+    color: var(--cor-da-fonte);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

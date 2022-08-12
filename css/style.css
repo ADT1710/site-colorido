@@ -1,0 +1,18 @@
+:root{
+    --cor-do-body: #973899;
+    --cor-da-fonte: #ffffff;
+    --cor-do-header: #632f6a;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: var(--cor-do-body);
+}
+
+.titulo{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

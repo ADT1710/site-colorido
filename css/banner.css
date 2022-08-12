@@ -1,0 +1,14 @@
+.banner{
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.banner_imagem{
+    width: 100%;
+    height: calc(100vh);
+    position: relative;
+}
+
+.oculta_obj{
+    display: none;
+}
